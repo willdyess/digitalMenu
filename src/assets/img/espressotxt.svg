@@ -1,0 +1,92 @@
+
+
+
+<svg width="100%" height="100%" viewBox="0 0 332 262" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.2 (39069) - http://www.bohemiancoding.com/sketch -->
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="133" y="52" width="60" height="34" rx="6"></rect>
+        <rect id="path-2" x="133" y="102" width="60" height="34" rx="6"></rect>
+        <rect id="path-3" x="132" y="153" width="64" height="36" rx="6"></rect>
+        <rect id="path-4" x="208" y="151" width="38" height="15"></rect>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group" transform="translate(0.000000, 1.000000)">
+            <g id="Rectangle-2">
+                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                <rect stroke="#1D1D1D" stroke-width="1" x="133.5" y="52.5" width="59" height="33" rx="6"></rect>
+            </g>
+            <g id="Rectangle-2">
+                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-2"></use>
+                <rect stroke="#1D1D1D" stroke-width="1" x="133.5" y="102.5" width="59" height="33" rx="6"></rect>
+            </g>
+            <g id="Rectangle-2">
+                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-3"></use>
+                <rect stroke="#1D1D1D" stroke-width="1" x="132.5" y="153.5" width="63" height="35" rx="6"></rect>
+            </g>
+            <text id="Customer-orders-Essp" font-family="TitilliumWeb-Regular, Titillium Web" font-size="10" font-weight="normal" line-spacing="9" letter-spacing="0.200000003" fill-opacity="0.9" fill="#000000">
+                <tspan x="140.07" y="14">Customer</tspan>
+                <tspan x="147.115" y="23">orders </tspan>
+                <tspan x="139" y="32">Esspress</tspan>
+                <tspan x="178.41" y="32">o</tspan>
+            </text>
+            <text id="Brew-Milk" font-family="TitilliumWeb-Regular, Titillium Web" font-size="10" font-weight="normal" line-spacing="10" letter-spacing="0.200000003" fill-opacity="0.9" fill="#000000">
+                <tspan x="151" y="70">Brew</tspan>
+                <tspan x="153.225" y="80">Milk</tspan>
+            </text>
+            <text id="Brew-Espresso" font-family="TitilliumWeb-Regular, Titillium Web" font-size="10" font-weight="normal" line-spacing="10" letter-spacing="0.200000003" fill-opacity="0.9" fill="#000000">
+                <tspan x="150.55" y="119">Brew</tspan>
+                <tspan x="142" y="129">Espresso</tspan>
+            </text>
+            <text id="Pour-Milk-into-Esspr" font-family="TitilliumWeb-Regular, Titillium Web" font-size="10" font-weight="normal" line-spacing="10" letter-spacing="0.200000003" fill-opacity="0.9" fill="#000000">
+                <tspan x="141.63" y="166">Pour Milk</tspan>
+                <tspan x="153.785" y="176">into </tspan>
+                <tspan x="140" y="186">Esspresso</tspan>
+            </text>
+            <polyline id="Path-5" stroke="#080808" points="161 36 161 49.0384048 165.019248 45.0191565"></polyline>
+            <polyline id="Path-5" stroke="#080808" points="161 191 161 204.038405 165.019248 200.019157"></polyline>
+            <polyline id="Path-5" stroke="#080808" points="162 87 162 100.038405 166.019248 96.0191565"></polyline>
+            <polyline id="Path-5" stroke="#080808" points="162 137 162 150.038405 166.019248 146.019157"></polyline>
+            <polyline id="Path-6" stroke-opacity="0.9" stroke="#000000" points="196 171 203 171 203 159 210 159"></polyline>
+            <g id="Rectangle-3">
+                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-4"></use>
+                <rect stroke-opacity="0.9" stroke="#000000" stroke-width="1" x="208.5" y="151.5" width="37" height="14"></rect>
+            </g>
+            <circle id="Oval-2" fill="#19AC13" cx="211.5" cy="154.5" r="1.5"></circle>
+            <text id="10-seconds" font-family="TitilliumWeb-Regular, Titillium Web" font-size="7" font-weight="normal" letter-spacing="-0.200000003" fill-opacity="0.9" fill="#000000">
+                <tspan x="211.1035" y="161">10 second</tspan>
+                <tspan x="239.6415" y="161">s</tspan>
+            </text>
+            <polygon id="Path-7" stroke="#000000" points="134 0 189.036352 0 194 17 189.036352 35 134 35 129 17"></polygon>
+            <text id="Esspresso-Complete" font-family="TitilliumWeb-Regular, Titillium Web" font-size="10" font-weight="normal" line-spacing="10" letter-spacing="0.200000003" fill-opacity="0.9" fill="#000000">
+                <tspan x="139" y="225.038405">Esspresso</tspan>
+                <tspan x="140.575" y="235.038405">Complete</tspan>
+            </text>
+            <polygon id="Path-7" stroke="#000000" points="134 208.038405 189.036352 208.038405 194 225.038405 189.036352 243.038405 134 243.038405 129 225.038405"></polygon>
+            <path d="M201,66 L227,52" id="Path-8" stroke="#000000"></path>
+            <path d="M100,120 L125,106" id="Path-8" stroke="#000000" transform="translate(112.500000, 113.000000) scale(-1, 1) translate(-112.500000, -113.000000) "></path>
+            <text id="-Fill-&lt;-half-way--st" font-family="TitilliumWeb-Regular, Titillium Web" font-size="10" font-weight="normal" letter-spacing="0.200000003" fill-opacity="0.9" fill="#000000">
+                <tspan x="231" y="32">-Fill &lt; half way</tspan>
+                <tspan x="231" y="47">-steam w/ just the tip</tspan>
+                <tspan x="231" y="62">-angle while steaming</tspan>
+                <tspan x="231" y="77">-want to see milk spin</tspan>
+                <tspan x="231" y="92">-so hot you can’t touch</tspan>
+            </text>
+            <path d="M200,191 L226,177" id="Path-8" stroke="#000000" transform="translate(213.000000, 184.000000) scale(1, -1) translate(-213.000000, -184.000000) "></path>
+            <text id="Very-important-as-th" font-family="TitilliumWeb-Regular, Titillium Web" font-size="10" font-weight="normal" letter-spacing="0.200000003" fill-opacity="0.9" fill="#000000">
+                <tspan x="230" y="185">Very important as the </tspan>
+                <tspan x="230" y="200">oils in esspresso do </tspan>
+                <tspan x="230" y="215">NOT age well. </tspan>
+                <tspan x="230" y="230">It needs to be served </tspan>
+                <tspan x="230" y="245">or mixed with milk as </tspan>
+                <tspan x="230" y="260">soon as finished</tspan>
+            </text>
+            <text id="--Grind---Tamp-w/-30" font-family="TitilliumWeb-Regular, Titillium Web" font-size="10" font-weight="normal" letter-spacing="0.200000003" fill-opacity="0.9" fill="#000000">
+                <tspan x="0" y="81">- Grind</tspan>
+                <tspan x="0" y="96">- Tamp w/ 30 lbs of force</tspan>
+                <tspan x="0" y="111">- lock into machine</tspan>
+                <tspan x="0" y="126">- get a warm cup</tspan>
+            </text>
+        </g>
+    </g>
+</svg>

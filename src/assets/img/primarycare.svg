@@ -1,0 +1,154 @@
+
+<svg width="100%" height="100%" viewBox="0 0 399 783" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.2 (39069) - http://www.bohemiancoding.com/sketch -->
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <circle id="path-1" cx="23" cy="199" r="16"></circle>
+
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <polyline id="Stroke-117" stroke="#000000" stroke-width="1.6967" stroke-linejoin="round" points="200.509091 141 200.509091 141 200.509091 149.5 200.509091 167.34"></polyline>
+        <polygon id="EPC-test" fill="#000000" fill-rule="nonzero" points="200.019091 165.5 206.559091 155 193.509091 155"></polygon>
+        <polygon id="Stroke-120" stroke="#000000" stroke-width="1.6967" stroke-linejoin="round" points="200.019091 165.5 206.559091 155 193.509091 155"></polygon>
+        <polyline id="Stroke-117" stroke="#000000" stroke-width="1.6967" stroke-linejoin="round" points="200.509091 225 200.509091 225 200.509091 233.5 200.509091 251.34"></polyline>
+        <polygon id="Fill-119" fill="#000000" fill-rule="nonzero" points="200.019091 249.5 206.559091 239 193.509091 239"></polygon>
+        <polygon id="Stroke-120" stroke="#000000" stroke-width="1.6967" stroke-linejoin="round" points="200.019091 249.5 206.559091 239 193.509091 239"></polygon>
+        <polygon id="Stroke-120" stroke="#000000" stroke-width="1.6967" fill="#000000" stroke-linejoin="round" transform="translate(255.000000, 114.250000) rotate(90.000000) translate(-255.000000, -114.250000) " points="254.985 119.5 261.525 109 248.475 109"></polygon>
+        <polyline id="Stroke-117" stroke="#000000" stroke-width="1.6967" stroke-linejoin="round" points="200.509091 310 200.509091 310 200.509091 318.5 200.509091 336.34"></polyline>
+        <polygon id="Fill-119" fill="#000000" fill-rule="nonzero" points="200.019091 334.5 206.559091 324 193.509091 324"></polygon>
+        <polygon id="Stroke-120" stroke="#000000" stroke-width="1.6967" stroke-linejoin="round" points="200.019091 334.5 206.559091 324 193.509091 324"></polygon>
+        <path d="M56,504.72 C56,509.26 59.69,512.95 64.21,512.95 L139.39,512.95 C143.93,512.95 147.62,509.56 147.62,504.72 L147.62,464.2 C147.62,459.39 144.23,456 139.39,456 L64.21,456 C59.39,456 56,459.69 56,464.2 L56,504.72 L56,504.72 Z" id="Stroke-2" stroke="#000000" stroke-width="2" stroke-linejoin="round" fill-rule="nonzero"></path>
+        <path d="M186,426.18 C186,434.1 192.24,440.33 200.18,440.33 C208.13,440.33 214.37,434.4 214.37,426.18 C214.37,417.95 208.41,412 200.18,412 C191.94,412 186,418.23 186,426.18 L186,426.18 Z" id="Stroke-16" stroke="#000000" stroke-width="1.6967" stroke-linejoin="round" fill-rule="nonzero"></path>
+        <polyline id="Stroke-17" stroke="#000000" stroke-width="1.6967" stroke-linejoin="round" points="193 420 200.09 432.47 207.17 420"></polyline>
+        <path d="M186.53,426 L186.53,426 L178.03,426 L108.51,426 C104.27,426 100,430.23 100,434.49 L100,455.75" id="Stroke-18" stroke="#000000" stroke-width="2" stroke-linejoin="round"></path>
+        <polyline id="Stroke-19" stroke="#000000" stroke-width="1.1228" stroke-linejoin="round" points="95 450 100.11 454.26 105.23 450"></polyline>
+        <path d="M157,503.75 C157,508.28 160.7,511.97 165.24,511.97 L240.42,511.97 C244.96,511.97 248.65,508.56 248.65,503.75 L248.65,463.23 C248.65,458.42 245.23,455 240.42,455 L165.24,455 C160.42,455 157,458.69 157,463.23 L157,503.75 L157,503.75 Z" id="Fill-20" stroke="#000000" stroke-width="2" fill-rule="nonzero"></path>
+        <polyline id="Stroke-22" stroke="#000000" stroke-width="1.1477" stroke-linejoin="round" points="200 440 200 440 200 447.65 200 455.3"></polyline>
+        <polyline id="Stroke-23" stroke="#000000" stroke-width="1.1477" stroke-linejoin="round" points="195 450 200.09 454.26 205.2 450"></polyline>
+        <path d="M261,504.74 C261,509.26 264.69,512.94 269.23,512.94 L344.41,512.94 C348.95,512.94 352.64,509.55 352.64,504.74 L352.64,464.22 C352.64,459.39 349.23,456 344.41,456 L269.23,456 C264.42,456 261,459.69 261,464.22 L261,504.74 L261,504.74 Z" id="Stroke-25" stroke="#000000" stroke-width="2" stroke-linejoin="round" fill-rule="nonzero"></path>
+        <path d="M215,426 L215,426 L223.51,426 L301.51,426 C305.77,426 310.02,430.23 310.02,434.49 L310.02,456.6" id="Stroke-26" stroke="#000000" stroke-width="2" stroke-linejoin="round"></path>
+        <polyline id="Stroke-27" stroke="#000000" stroke-width="1.1477" stroke-linejoin="round" points="304 451 309.09 455.26 314.2 451"></polyline>
+        <path d="M58.98,171.045455 L58.98,171.045455 L58.98,165.151545 L58.98,116.946298 C58.98,114.006277 71.6451176,111.045455 84.4000588,111.045455 L148.055,111.045455" id="Stroke-18" stroke="#000000" stroke-width="2" stroke-linejoin="round"></path>
+        <polyline id="Stroke-19" stroke="#000000" stroke-width="1.1228" stroke-linejoin="round" transform="translate(146.130000, 111.138500) scale(-1, 1) rotate(90.000000) translate(-146.130000, -111.138500) " points="141.9915 109.0085 146.125955 113.2685 150.2685 109.0085"></polyline>
+        <path d="M58.98,224.970727 L58.98,224.970727 L58.98,229.986092 L58.98,275.955362 C58.98,278.465991 71.6451176,280.970727 84.4000588,280.970727 L150.6,280.970727" id="Stroke-26" stroke="#000000" stroke-width="2" stroke-linejoin="round"></path>
+        <polyline id="Stroke-27" stroke="#000000" stroke-width="1.1477" stroke-linejoin="round" transform="translate(147.130000, 280.226364) scale(-1, 1) rotate(90.000000) translate(-147.130000, -280.226364) " points="143.003636 278.096364 147.121909 282.356364 151.256364 278.096364"></polyline>
+        <path d="M186,543.18 C186,551.1 192.24,557.33 200.17,557.33 C208.13,557.33 214.37,551.4 214.37,543.18 C214.37,534.95 208.41,529 200.17,529 C191.96,529 186,535.23 186,543.18 L186,543.18 Z" id="Stroke-28" stroke="#000000" stroke-width="1.6967" stroke-linejoin="round" fill-rule="nonzero"></path>
+        <polyline id="Stroke-29" stroke="#000000" stroke-width="1.6967" stroke-linejoin="round" points="193 537 200.08 549.46 207.19 537"></polyline>
+        <path d="M100,513 L100,513 L100,521.49 L100,534.83 C100,539.06 104.27,543.33 108.51,543.33 L185.11,543.33" id="Stroke-30" stroke="#000000" stroke-width="2" stroke-linejoin="round"></path>
+        <polyline id="Stroke-31" stroke="#000000" stroke-width="1.1228" stroke-linejoin="round" points="180 548.21 184.24 543.11 180 538"></polyline>
+        <polyline id="Stroke-32" stroke="#000000" stroke-width="1.1477" stroke-linejoin="round" points="203 512 203 512 203 520.23 203 528.43"></polyline>
+        <polyline id="Stroke-33" stroke="#000000" stroke-width="1.1228" stroke-linejoin="round" points="198 523 203.12 527.23 208.23 523"></polyline>
+        <path d="M307.89,513 L307.89,513 L307.89,521.5 L307.89,533.99 C307.89,538.22 303.65,542.49 299.38,542.49 L214,542.49" id="Stroke-34" stroke="#000000" stroke-width="2" stroke-linejoin="round"></path>
+        <polyline id="Stroke-35" stroke="#000000" stroke-width="1.1477" stroke-linejoin="round" points="219.24 538 215 543.11 219.24 548.19"></polyline>
+        <polyline id="Stroke-38" stroke="#000000" stroke-width="1.1477" stroke-linejoin="round" points="200 557 200 557 200 564.38 200 572.03"></polyline>
+        <polyline id="Stroke-39" stroke="#000000" stroke-width="1.1228" stroke-linejoin="round" points="195 566 200.09 570.24 205.21 566"></polyline>
+        <polyline id="Stroke-105" stroke="#000000" stroke-width="1.1477" stroke-linejoin="round" points="200 397 200 397 200 404.35 200 412.01"></polyline>
+        <polyline id="Stroke-106" stroke="#000000" stroke-width="1.1477" stroke-linejoin="round" points="195 406 200.09 410.26 205.21 406"></polyline>
+        <polyline id="Stroke-105" stroke="#000000" stroke-width="1.1477" stroke-linejoin="round" points="200 68 200 68 200 75.35 200 83.01"></polyline>
+        <polyline id="Stroke-106" stroke="#000000" stroke-width="1.1477" stroke-linejoin="round" points="195 77 200.09 81.26 205.21 77"></polyline>
+        <polygon id="Path-47" stroke="#000000" stroke-width="2" fill="#FFFFFF" fill-rule="nonzero" points="159.285714 7 239 7 249 37 239 67 159.285714 67 149 37"></polygon>
+        <polygon id="Path-47" stroke="#000000" stroke-width="2" fill="#FFFFFF" fill-rule="nonzero" points="160.285714 336 240 336 250 366 240 396 160.285714 396 150 366"></polygon>
+        <polygon id="Path-47" stroke="#000000" stroke-width="2" fill="#FFFFFF" fill-rule="nonzero" points="160.285714 572 240 572 250 602 240 632 160.285714 632 150 602"></polygon>
+        <polyline id="Stroke-38" stroke="#000000" stroke-width="1.1477" stroke-linejoin="round" points="200 707 200 707 200 714.38 200 722.03"></polyline>
+        <polyline id="Stroke-39" stroke="#000000" stroke-width="1.1228" stroke-linejoin="round" points="195 716 200.09 720.24 205.21 716"></polyline>
+        <polyline id="Stroke-38" stroke="#000000" stroke-width="1.1477" stroke-linejoin="round" points="200 633 200 633 200 640.38 200 648.03"></polyline>
+        <polyline id="Stroke-39" stroke="#000000" stroke-width="1.1228" stroke-linejoin="round" points="195 642 200.09 646.24 205.21 642"></polyline>
+        <polygon id="Path-47" stroke="#000000" stroke-width="2" fill="#FFFFFF" fill-rule="nonzero" points="162.285714 722 242 722 252 752 242 782 162.285714 782 152 752"></polygon>
+        <rect id="path-1" stroke="#000000" stroke-width="2" x="150" y="82" width="100" height="60" rx="6"></rect>
+        <rect id="path-1" stroke="#000000" stroke-width="2" x="150" y="166" width="100" height="60" rx="6"></rect>
+        <rect id="path-1" stroke="#000000" stroke-width="2" x="150" y="251" width="100" height="60" rx="6"></rect>
+        <rect id="path-1" stroke="#000000" stroke-width="2" fill="#FFFFFF" fill-rule="nonzero" x="150" y="251" width="100" height="60" rx="6"></rect>
+        <rect id="path-1" stroke="#000000" stroke-width="2" fill="#FFFFFF" fill-rule="nonzero" x="150" y="647" width="100" height="60" rx="6"></rect>
+        <text id="Patient-waits-in-Wai" font-family="MicrosoftSansSerif, Microsoft Sans Serif" font-size="14" font-weight="normal" line-spacing="16" letter-spacing="-0.38499999" fill="#000000">
+            <tspan x="161.819883" y="28">Patient waits</tspan>
+            <tspan x="170.153027" y="44">in Waiting</tspan>
+            <tspan x="181.097637" y="60">Room</tspan>
+        </text>
+        <text id="Take-Vitals" font-family="MicrosoftSansSerif, Microsoft Sans Serif" font-size="14" font-weight="normal" line-spacing="16" letter-spacing="-0.38499999" fill="#000000">
+            <tspan x="164.996894" y="115">Take Vitals</tspan>
+        </text>
+        <text id="Conduct-Interview" font-family="MicrosoftSansSerif, Microsoft Sans Serif" font-size="14" font-weight="normal" line-spacing="16" letter-spacing="-0.38499999" fill="#000000">
+            <tspan x="172.775234" y="194">Conduct</tspan>
+            <tspan x="171.18123" y="210">Interview</tspan>
+        </text>
+        <text id="Provide-Care" font-family="MicrosoftSansSerif, Microsoft Sans Serif" font-size="14" font-weight="normal" line-spacing="16" letter-spacing="-0.38499999" fill="#000000">
+            <tspan x="175.072109" y="277">Provide</tspan>
+            <tspan x="183.097637" y="293">Care</tspan>
+        </text>
+        <text id="Conduct-Additional-T" font-family="MicrosoftSansSerif, Microsoft Sans Serif" font-size="14" font-weight="normal" line-spacing="16" letter-spacing="-0.38499999" fill="#000000">
+            <tspan x="74.7752343" y="474">Conduct</tspan>
+            <tspan x="70.5573242" y="490">Additional</tspan>
+            <tspan x="77.8514062" y="506">Testing</tspan>
+        </text>
+        <text id="Collect-Discharge-Pl" font-family="MicrosoftSansSerif, Microsoft Sans Serif" font-size="14" font-weight="normal" line-spacing="16" letter-spacing="-0.38499999" fill="#000000">
+            <tspan x="180.368984" y="474">Collect</tspan>
+            <tspan x="170.677812" y="490">Discharge</tspan>
+            <tspan x="187.21873" y="506">Plan</tspan>
+        </text>
+        <text id="Additional-Steps-Com" font-family="MicrosoftSansSerif, Microsoft Sans Serif" font-size="14" font-weight="normal" line-spacing="16" letter-spacing="-0.38499999" fill="#000000">
+            <tspan x="170.557324" y="590">Additional</tspan>
+            <tspan x="182.755098" y="606">Steps </tspan>
+            <tspan x="171.040488" y="622">Complete</tspan>
+        </text>
+        <text id="Discharge-Patient" font-family="MicrosoftSansSerif, Microsoft Sans Serif" font-size="14" font-weight="normal" line-spacing="16" letter-spacing="-0.38499999" fill="#000000">
+            <tspan x="169.677812" y="673">Discharge</tspan>
+            <tspan x="179.013516" y="689">Patient</tspan>
+        </text>
+        <text id="Patient-Discharged" font-family="MicrosoftSansSerif, Microsoft Sans Serif" font-size="14" font-weight="normal" line-spacing="16" letter-spacing="-0.38499999" fill="#000000">
+            <tspan x="179.013516" y="746">Patient</tspan>
+            <tspan x="165.977246" y="762">Discharged</tspan>
+        </text>
+        <text id="Create-Referral" font-family="MicrosoftSansSerif, Microsoft Sans Serif" font-size="14" font-weight="normal" line-spacing="16" letter-spacing="-0.38499999" fill="#000000">
+            <tspan x="286.644746" y="479">Create</tspan>
+            <tspan x="283.1025" y="495">Referral</tspan>
+        </text>
+        <text id="Care-Provided" font-family="MicrosoftSansSerif, Microsoft Sans Serif" font-size="14" font-weight="normal" line-spacing="16" letter-spacing="-0.38499999" fill="#000000">
+            <tspan x="183.097637" y="362">Care</tspan>
+            <tspan x="171.371543" y="378">Provided</tspan>
+        </text>
+        <circle id="Oval-3" fill="#16A01E" cx="154.5" cy="10.5" r="10.5"></circle>
+        <circle id="Oval-3" fill="#C6B85B" cx="154.5" cy="82.5" r="10.5"></circle>
+        <circle id="Oval-3" fill="#BA6666" cx="154.5" cy="166.5" r="10.5"></circle>
+        <circle id="Oval-3" fill="#096A04" cx="154.5" cy="251.5" r="10.5"></circle>
+        <circle id="Oval-3" fill="#5B9F4E" cx="154.5" cy="339.5" r="10.5"></circle>
+        <circle id="Oval-3" fill="#A6B31C" cx="158.5" cy="455.5" r="10.5"></circle>
+        <circle id="Oval-3" fill="#A6B31C" cx="58.5" cy="455.5" r="10.5"></circle>
+        <circle id="Oval-3" fill="#A6B31C" cx="263.5" cy="455.5" r="10.5"></circle>
+        <circle id="Oval-3" fill="#65A721" cx="154.5" cy="652.5" r="10.5"></circle>
+        <rect id="Rectangle-3" stroke="#000000" stroke-width="2" x="285" y="85" width="113" height="54" rx="2"></rect>
+        <path d="M289,86 L289,138.009614" id="Path-8" stroke="#000000"></path>
+        <path d="M292,86 L292,138.009614" id="Path-8" stroke="#000000"></path>
+        <path d="M391,86 L391,138.009614" id="Path-8" stroke="#000000"></path>
+        <path d="M394,86 L394,138.009614" id="Path-8" stroke="#000000"></path>
+        <rect id="Rectangle-3" stroke="#000000" stroke-width="2" x="1" y="172" width="113" height="54" rx="2"></rect>
+        <text id="Care-Provider" font-family="MicrosoftSansSerif, Microsoft Sans Serif" font-size="16" font-weight="normal" letter-spacing="-0.5066667" fill="#020202">
+            <tspan x="46" y="196">Care</tspan>
+            <tspan x="46" y="214">Provider</tspan>
+        </text>
+        <text id="Electronic-Health-Re" font-family="AvenirNext-Medium, Avenir Next" font-size="14" font-weight="400" line-spacing="15" letter-spacing="-0.443333328" fill="#020202">
+            <tspan x="308" y="104">Electronic</tspan>
+            <tspan x="308" y="119">Health</tspan>
+            <tspan x="308" y="134">Record</tspan>
+        </text>
+        <path d="M252,114 L285.060551,114" id="Path-9" stroke="#000000"></path>
+        <polygon id="Stroke-120" stroke="#000000" stroke-width="1.6967" fill="#000000" stroke-linejoin="round" transform="translate(255.250000, 679.525000) rotate(90.000000) translate(-255.250000, -679.525000) " points="255.235 684.775 261.775 674.275 248.725 674.275"></polygon>
+        <rect id="Rectangle-3" stroke="#000000" stroke-width="2" x="285" y="650" width="113" height="54" rx="2"></rect>
+        <path d="M289,651 L289,703.009614" id="Path-8" stroke="#000000"></path>
+        <path d="M292,651 L292,703.009614" id="Path-8" stroke="#000000"></path>
+        <path d="M391,651 L391,703.009614" id="Path-8" stroke="#000000"></path>
+        <path d="M394,651 L394,703.009614" id="Path-8" stroke="#000000"></path>
+        <text id="Practice-Management" font-family="AvenirNext-Medium, Avenir Next" font-size="14" font-weight="400" line-spacing="15" letter-spacing="-0.443333328" fill="#020202">
+            <tspan x="304" y="669">Practice</tspan>
+            <tspan x="304" y="684">Management</tspan>
+            <tspan x="304" y="699">Software</tspan>
+        </text>
+        <path d="M252,679 L285.060551,679" id="Path-9" stroke="#000000"></path>
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <g id="Mask">
+            <use fill="black" fill-opacity="1" filter="url(#filter-3)" xlink:href="#path-1"></use>
+            <use fill="#D8D8D8" fill-rule="evenodd" xlink:href="#path-1"></use>
+        </g>
+    </g>
+</svg>

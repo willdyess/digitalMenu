@@ -1,0 +1,24 @@
+<nav>
+  <button (click)="toggleExplorer()" inlineSVG="./assets/img/menu.svg"> </button>
+  <div><h3 style="margin:0;">eaMode</h3></div>
+
+<!--
+  <button style="background: red; position: relative;" (click)="dropdownShow()">
+      <ul  *ngIf="dropDown === true"   style="background: red; position: absolute; bottom: -80px; right: 10px; list-style: none; padding:0; margin:0; width: 100px;">
+          <li> <button style="width: 100%;" *ngIf="!auth.isAuthenticated()" (click)="auth.login()">
+                  Log In
+              </button>
+          </li>
+          <li>
+              <a routerLink="/task-list" routerLinkActive="active"> <button class="settings" inlineSVG="assets/img/task-view.svg"></button></a>
+          </li>
+
+          <li>
+              <button class="btn btn-primary btn-margin" *ngIf="auth.isAuthenticated()" (click)="auth.logout()">
+                      Log Out
+              </button>
+          </li>
+      </ul>
+  </button> -->
+</nav>
+<explorer-panel *ngIf="displayExplorer === true"></explorer-panel>

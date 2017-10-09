@@ -1,0 +1,6 @@
+<ul class="nav nav-tabs">
+  <li *ngFor="let tab of tabs" (click)="selectTab(tab)" [class.active]="tab.active">
+    <img src="../assets/img/{{tab.title}}.svg" alt="">
+  </li>
+</ul>
+<ng-content></ng-content>

@@ -1,0 +1,23 @@
+md2-tab {
+  padding: 0 !important;
+}
+
+#process-1 > div.md2-tabs-header-wrapper > div > div > div.md2-tab-ink-bar{
+  background: green !important;
+}
+
+tab {
+background: white;
+}
+
+h3{
+margin:0;
+display: flex;
+justify-content: center;
+align-items:center;
+text-align: center;
+font-weight: 300;
+line-height: 10px;
+vertical-align: center;
+height: 100%;
+}
