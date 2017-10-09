@@ -1,0 +1,7 @@
+
+<svg:g *ngFor="let points of svgtest">
+  <svg:rect [attr.stroke]="points.stroke" [attr.fill]="points.fill" [attr.stroke-width]="points.strokew" [attr.x]="points.x" [attr.y]="points.y" [attr.width]="points.width" [attr.height]="points.height" [attr.rx]="points.rx"/>
+  <foreignObject [attr.x]="points.x" [attr.y]="points.y" [attr.width]="points.width" [attr.height]="points.height">
+      <xhtml:h3 [ngStyle]="{'font-size.px':getColor(points.id)}">{{points.text}}</xhtml:h3>
+  </foreignObject>
+</svg:g>
