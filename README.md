@@ -1,6 +1,10 @@
-# ModeDemo
+# Digital Menu
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.4.4.
+This project is a digital menu that can be used by any restaurant to allow their servers to have a pocket reference of what foods contain what allergies. 
+
+It is configurable by spreadsheet using the apps built in .csv to .json converter. This means management can create a spreadsheet of their menu, and Digital Menu will ingest it and create a web application. 
+
+This allows for quick and easy updating, and the potential to manage multiple menus across multiple locations with a central spread sheet. 
 
 ## Development server
 
